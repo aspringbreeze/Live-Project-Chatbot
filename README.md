@@ -18,7 +18,7 @@ Context-Aware Conversations: The chatbot maintains a follow-up state to manage c
 
 This bot uses deterministic rules to interact with users, providing consistent responses for common queries.
 
-# AI-based chabot
+## AI-based chabot
 GPT-2 Model: A fine-tuned transformer model that generates human-like responses to user inputs.
 
 Custom Training Data: The model is trained on a dataset of pizza restaurant dialogues, covering orders, account inquiries, and business hours.
